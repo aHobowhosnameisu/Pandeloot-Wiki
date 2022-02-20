@@ -1,7 +1,7 @@
 To see how to write flags, check the _syntax_ page!
 
 
-Flags are used to change what happens when an item is dropped or how it acts. The are multiple kinds of flags, the main ones are:
+Flags are used to change what happens when a drop is dropped or how it acts. The are multiple kinds of flags, the main ones are:
 
 * General Flag: Will always be executed
 * Player Flag: Will only execute if there is a player attached to the drops

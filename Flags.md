@@ -33,7 +33,7 @@ Sends a message to everyone in the server
 Runs a command as console
 ```yml
 # Example use: Make the player progress in a quest
-- mythicmobs:MoonTotem{onpickup=[command=questplugin stage:moonBoos setProgress:3 for:%player%]}
+- mythicmobs:MoonTotem{onpickup=[command=questplugin stage:moonBoss setProgress:3 for:%player%]}
 # Made up command
 ```
 

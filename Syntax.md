@@ -3,7 +3,8 @@ TODO: Split this in their respective "Drops" and "Containers" sections
 A drop is composed of an item, to which you may add flags or amount/chance
 
 A fully formed syntax would look like this:
-- <origin>:<item>{flag1=value1;flag2=value2 <attribute1=otherValue>;ontrigger=[flag3=value3;...]} <amount>/<chance>
+
+``- <origin>:<item>{flag1=value1;flag2=value2 <attribute1=otherValue>;ontrigger=[flag3=value3;...]} <amount>/<chance>``
 
 * ``origin``: The origin of the item, this way be ``mythicmobs``, ``mmoitems`` or any other dependency, by default the origin is ``minecraft``
 * ``item``: The material/id of the item

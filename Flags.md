@@ -21,7 +21,8 @@ Additionally, all flags are bound to a trigger, by default the trigger is on spa
 
 
 # Flag Compendium
-## General Flags
+
+# General Flags
 
 ### Broadcast
 Sends a message to everyone in the server
@@ -70,7 +71,7 @@ Uses [DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/) to send 
 - diamond{discord=%player% got an ultra rare sword! <channel=710138582853091371;color=#bdca24;thumbnail=https://cdn.discordapp.com/attachments/710138582853091371/878539180219723786/unknown.png;footer=Chance of drop: 0.1%;author=%player%>}
 ```
 
-### Skill ( MythicMobs Skill )
+### MythicMobs Skill
 Runs a skill from MythicMobs, with the base mob as target, player as caster and mob location as origin
 ```yml
 - diamond_block{skill=TestSkill}

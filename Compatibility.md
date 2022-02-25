@@ -54,6 +54,13 @@ To call a MMOItems Mobs item from PandeLoot you have to use ``mmoitems``|``mi`` 
 - mmoitems:WEATHERED_IRON_SWORD{type=SWORD}
 ```
 
+# Citizens
+You are able to set if Citizens' damage towards mobs should be counted or not in the config, this is true by default
+```yml
+Settings:
+  IgnoreCitizensDamage: true
+```
+
 # DiscordSRV
 See [the flag page](https://github.com/Seyarada/PandeLootPlus/wiki/Flags#discord)
 

@@ -53,3 +53,9 @@ To call a MMOItems Mobs item from PandeLoot you have to use ``mmoitems``|``mi`` 
 - mmoitems:CRACKED_SKULL{type=MATERIAL}
 - mmoitems:WEATHERED_IRON_SWORD{type=SWORD}
 ```
+
+# DiscordSRV
+See [the flag page](https://github.com/Seyarada/PandeLootPlus/wiki/Flags#discord)
+
+# Economy
+See [the flag page](https://github.com/Seyarada/PandeLootPlus/wiki/Flags#economy)

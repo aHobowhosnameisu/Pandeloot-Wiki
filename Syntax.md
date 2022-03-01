@@ -6,7 +6,7 @@ A fully formed syntax would look like this:
 
 ``- <origin>:<item>{flag1=value1;flag2=value2 <attribute1=otherValue>;ontrigger=[flag3=value3;...]} <amount>/<chance>``
 
-* ``origin``: The origin of the item, this way be ``mythicmobs``, ``mmoitems`` or any other dependency, by default the origin is ``minecraft``
+* ``origin``: The origin of the item, this may be ``mythicmobs``, ``mmoitems`` or any other dependency, by default the origin is ``minecraft``
 * ``item``: The material/id of the item
 * ``flag``: All flags must be between brackets ``{...}``, and they are separated by the ``;`` character
 * ``value``: A flag value is assigned by simply adding a ``=`` character then the value

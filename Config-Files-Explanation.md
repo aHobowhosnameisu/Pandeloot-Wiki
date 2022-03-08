@@ -20,7 +20,7 @@ In the events file you are able to specify whether flags apply to certain item r
 # Flags
 Use a set of flags too often? Inside this file you can create a set of predefined flags which you can apply to drops with
 ```yml
-- stone{flag=somePredefinedFlagName}
+- stone{pack=somePredefinedFlagName}
 ```
 
 # Drops Folder

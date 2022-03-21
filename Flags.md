@@ -303,9 +303,9 @@ The following special values only apply to item entities
 A comma (``,``) can be used to split the hologram in multiple lines in case special values weren't used
 ```yml
 # Example use: Show item information as an hologram
-- mm:skeletonSword{lore=display}
-- mm:amazingBow{lore=full}
-- diamond{lore=Some custom lore, wow!}
+- mm:skeletonSword{hologram=display}
+- mm:amazingBow{hologram=full}
+- diamond{hologram=Some custom lore, wow!}
 ```
 
 ## Remove

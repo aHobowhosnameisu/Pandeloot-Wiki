@@ -187,9 +187,10 @@ Sends a toast (the small achievements you get at the top right) to the player
 ## Amount
 Sets the amount of the item
 ```yml
-# Both formats are valid
+# Both formats are valid. Also accepts ranges.
 - diamond{a=5}
 - diamond 5
+- diamond 3to5
 ```
 
 ## Prevent Pick Up
